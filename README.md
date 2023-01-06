@@ -40,7 +40,7 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord**, [a
 
 — Para que pudéssemos chegar aonde estamos, foi necessário uma boa equipe administrativa para que mantivesse tudo nos conformes, inovando, moderando e mantendo nossos ideais vivos. Então, conheça nosso incrível time:
 
-## Líderes  (He4rtless)
+### *Líderes  (He4rtless)*
 
 - **Daniel Reis -** *Fundador*
 
@@ -62,7 +62,7 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord**, [a
 
     Discord: @'Pride#5559
 
-## Equipe de Administração
+### *Equipe de Administração*
 
 - **Gabriel Mazieri** - *Community Manager*
 
