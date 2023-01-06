@@ -1,13 +1,15 @@
-# Documentação He4rt Developers
+# <p align="center"><b> Documentação He4rt Developers</b>
 
 # O que é essa documentação?
 
 — Muitos membros da comunidade, novos e antigos, não conheciam a comunidade como um todo e então notamos a falta de uma documentação que detalhasse tudo que consideramos necessário de terem conhecimento. Essa documentação tem o intuito de explicar com maiores detalhes o ecossistema da **He4rt Developers**. 
-
+<br>
+<br>
 # Como eu posso contribuir?
 
 — Para contribuir para essa documentação, seja com correções ortográficas ou adicionando um novo conteúdo, basta acessar o repositório oficial, fazer um fork dele, criar uma branch com o seu nome/apelido, fazer a sua contribuição, enviar um pull request e então um dos revisores irão avaliar suas alterações.
-
+<br>
+<br>
 # He4rt Developers
 
 — A comunidade **He4rt Developers** é um grupo fomentado por **pessoas desenvolvedoras de software**, **estudantes de tecnologia**, **entusiastas por comunidades** e/ou **software livre** e muitos outros reunidos no servidor no Discord e ativos em outras redes sociais. Nossa filosofia impõe educação de qualidade e tecnologia para todas as pessoas de forma acessível e gratuita. 
@@ -16,9 +18,19 @@ Acreditamos também na importância da participação de todos os nossos membros
 
 Tudo que construímos juntos é em prol ***da comunidade para a comunidade.*** Inclusive essa documentação que você está lendo agora, feita por membros que se dispuseram para contribuir.
 
-Para entender melhor sobre a **estruturação do nosso servidor no Discord**, [acesse aqui](https://www.notion.so/Estrutura-o-do-servidor-He4rt-Developers-706357d2208a401f83122c1638141611).
+Para entender melhor sobre a **estruturação do nosso servidor no Discord**, [acesse aqui](./subpage/discord-community.md).
+<br>
+<br>
 
-                                         (colocar as badges das redes sociais aqui)
+<p align="center">
+  <a href="https://discord.com/invite/he4rt" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/He4rtDevs" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/heartdevs" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/groups/he4rt/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/company/he4rt/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+<br>
+<br>
 
 # Nosso time
 
@@ -76,16 +88,18 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord**, [a
     
     Discord: @yaya#5286, [Twitter](https://twitter.com/yayaflc), [Linkedin](https://www.linkedin.com/in/yasminccfe/)
     
+<br>
+<br>
 
 # Projetos
 
-## Meetups
+## He4rt Meetup
 
-— Os **Meetups** são eventos **híbridos** que ocorrem na intenção dos membros se encontrarem *in real life*. Durante esses eventos geralmente ocorrem **palestras, entrevista com convidados especiais, coffee break** e muito **networking.** Apesar dos encontros serem focados para o presencial, nossos Meetups também possuem **transmissões online** pela **[Twitch](https://www.twitch.tv/danielhe4rt).** Dessa maneira, todos os nossos membros podem aproveitar nossos eventos, mesmo de longe.
+— A **He4rt Meetup** são eventos **híbridos** que ocorrem na intenção dos membros se encontrarem *in real life*. Durante esses eventos geralmente ocorrem **palestras, entrevista com convidados especiais, coffee break** e muito **networking.** Apesar dos encontros serem focados para o presencial, nossos Meetups também possuem **transmissões online** pela **[Twitch](https://www.twitch.tv/danielhe4rt).** Dessa maneira, todos os nossos membros podem aproveitar nossos eventos, mesmo de longe.
 
 ## He4rt Conf
 
-— A **He4rt Conf** é uma iniciativa que visa **democratizar** e **facilitar** o **acesso a conteúdos de alta qualidade** produzidos pela comunidade, sendo **100% gratuito**, contendo palestras de convidados especiais, além de brindes patrocinado pelas empresas parceiras para todos os participantes. A primeira edição (e até então a única) ocorreu nos dias 01, 02 e 03 de Outubro de 2021. 
+— A **[He4rt Conf](https://conf.heartdevs.com/)** é uma iniciativa que visa **democratizar** e **facilitar** o **acesso a conteúdos de alta qualidade** produzidos pela comunidade, sendo **100% gratuito**, contendo palestras de convidados especiais, além de brindes patrocinado pelas empresas parceiras para todos os participantes. A primeira edição (e até então a única) ocorreu nos dias 01, 02 e 03 de Outubro de 2021. 
 
 ## He4rt Delas
 
@@ -107,9 +121,7 @@ Para acessar o nosso time de Streamers parceiros, [**clique aqui**](https://www.
 
 ## He4rtBot
 
-— O **He4rtBot** surgiu após identificarmos a necessidade de **melhorar a performance dos nossos serviços** dentro do nosso servidor do Discord. Sendo um projeto **Open Source**, feito do zero pela nossa própria comunidade, o He4rtBot além de conter diversos [comandos](https://www.notion.so/Estrutura-o-do-servidor-He4rt-Developers-706357d2208a401f83122c1638141611) para aprimoração e coleta de métricas, ele também possui um **Sistema de Temporadas**, onde nossos membros podem subir de nível e coletar emblemas de conquista por participar de eventos, como se fosse um joguinho. 
-
-Você pode consultar o repositório do He4rtBot aqui: [**he4rt-bot**](https://github.com/he4rt/he4rt-bot-next).
+— O **[He4rtBot](https://github.com/he4rt/he4rt-bot-next)** surgiu após identificarmos a necessidade de **melhorar a performance dos nossos serviços** dentro do nosso servidor do Discord. Sendo um projeto **Open Source**, feito do zero pela nossa própria comunidade, o He4rtBot além de conter diversos [comandos](./subpage/discord-community.md) para aprimoração e coleta de métricas, ele também possui um **Sistema de Temporadas**, onde nossos membros podem subir de nível e coletar emblemas de conquista por participar de eventos, como se fosse um joguinho. 
 
 ## Aulões
 
@@ -131,13 +143,15 @@ As aulas de inglês no momento entraram em recesso e estão previstas para retor
 
 — Os grupos de conversação surgiram com a necessidade dos membros de terem um local para praticar seus conhecimentos em Inglês com outras pessoas de forma descontraída. Dentro da nossa comunidade no Discord temos o canal de voz **#🇬🇧 Only English**, que é o local no qual os membros de diversos níveis de Inglês, do iniciante ao fluente, se reúnem para conversar e trocar conhecimentos.
 
-# Reuniões semanais
+## Reuniões semanais
 
 — As reuniões semanais acontecem toda **segunda-feira**, **às 22h**, com o intuito de **reunir a comunidade para conversar**, **discutir** e **fofocar** sobre os assuntos da semana. Utilizamos esse espaço para repassar avisos importantes e o calendário semanal da comunidade, além de incentivarmos a presença mais ativa dos nossos membros. 
 
-# Reunião das minas
+## Reunião das minas
 
 — A reunião das minas acontecem toda **terça-feira**, **às 20h**, onde as pessoas que se identificam com o projeto **He4rt Delas** e o restante da comunidade são convidados para **apoiar a presença de mulheres cis**, **trans** e **pessoas não-binárias** à fazerem parte da He4rt Developers. Na reunião *quem manda são as minas*, desde a organização, até as tomadas de decisões do projeto.
+<br>
+<br>
 
 # Cargos
 
@@ -158,10 +172,12 @@ As aulas de inglês no momento entraram em recesso e estão previstas para retor
 🎓**Mentores** ⇒ São aqueles que se voluntariaram a serem mentores dentro da comunidade, ajudando aqueles que ainda estão um pouco perdidos nos estudos. 
 
 🤝**Parceiros** ⇒ Membros e empresas que ajudam efetivamente a comunidade em diversos setores.
+<br>
+<br>
 
 # **Punições e moderação**
 
-A He4rt Developers **preza pelo bem estar** e por **um lugar seguro para todos**. Por isso, somos extremamente rigidos e **não atoleramos qualquer tipo de discriminação ou preconceito**, seja por etnia, gênero ou sexualidade. Para consultar nosso código de conduta, [clique aqui.](https://www.notion.so/C-digo-de-Conduta-c75402cc1be94e8bb8ed61800c6d1453)
+A He4rt Developers **preza pelo bem estar** e por **um lugar seguro para todos**. Por isso, somos extremamente rigidos e **não atoleramos qualquer tipo de discriminação ou preconceito**, seja por etnia, gênero ou sexualidade. Para consultar nosso código de conduta, [clique aqui.](./subpage/code-of-conduct.md)
 
 **Alerta:** Dependendo da situação, antes de tomarmos qualquer ação de punimento, nós avisamos a pessoa sobre seu erro e esperamos por justificativa, se a pessoa reconhece o erro e pede sinceras desculpas, ela receberá apenas um alerta.
 
@@ -171,8 +187,4 @@ Caso presencie alguma situação que infrija nossas regras ou que se sinta ofend
 
 ---
 
-                                                    *Da comunidade para a comunidade. 💜*
-
-[Estruturação do servidor He4rt Developers](https://www.notion.so/Estrutura-o-do-servidor-He4rt-Developers-706357d2208a401f83122c1638141611)
-
-[Código de Conduta](https://www.notion.so/C-digo-de-Conduta-c75402cc1be94e8bb8ed61800c6d1453)
+<p align="center"><i> Da comunidade para a comunidade. 💜</i></p>
