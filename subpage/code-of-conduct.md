@@ -1,6 +1,7 @@
 # Código de Conduta
+
 > **Para mantermos a comunidade organizada, siga todas as regras e evite punições.**
-> 
+>
 > 1. O servidor é para qualquer pessoa, indiferente da condição física, religião, identidade de gênero, entre outros. Respeite! Xenofobia, racismo, homofobia, sexismo ou qualquer outro discurso de ódio são gravíssimos e poderão levar ao ban imediato, sem aviso prévio.
 > 2. Estamos sempre abertos a novas comunidades de tecnologia, mas divulgações devem ser discutidas com algum membro da Administração para garantir um ambiente saudável em nosso Discord sem ofender ou afetar membros diretamente.
 > 3. Não é permitido envio de material ofensivo ou obsceno como: links, imagens, mensagens, pornografia, gore, racismo, sexismo e relacionados. Passível de punição sem aviso prévio. (Incluindo canais voz)
