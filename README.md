@@ -107,23 +107,23 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord**, [a
 
 O projeto é composto por um **comitê** para as tomadas de decisões e administração dos projetos internos da He4rt Delas. As participantes do comitê são: *Alice, Amanda, Carolina, Colares, Gabi, Lai, Lorena e Yaya.*
 
-## 4Noobs
+## *4Noobs*
 
 — O projeto **4Noobs** nasceu com o objetivo de ser um espaço onde as pessoas pudessem encontrar conteúdo de **fácil entendimento** em um primeiro encontro com determinado tema e que permitisse ela de se capacitar profissionalmente com esse conteúdo. A intenção desse **Open Source** é que as pessoas de diferentes níveis de entendimento pudessem contribuir, pois acreditamos que **você não precisa ser um expert para poder ensinar sobre algo.**
 
 Você pode saber mais sobre o 4Noobs aqui: <https://github.com/he4rt/4noobs>
 
-## He4rtLive
+## *He4rtLive*
 
 — A **He4rtLive** tem como objetivo apoiar e incentivar o crescimento da comunidade de criadores de conteúdo na Twitch de todas as categorias, principalmente ***LiveCoding**.* O projeto consiste em recrutar Streamers parceiros, disponibilizando total apoio através da He4rt Developers. Oferecemos serviços como: *criação de design, divulgação, equipe de moderação* e *entre outros*.
 
 Para acessar o nosso time de Streamers parceiros, [**clique aqui**](https://www.twitch.tv/team/he4rt).
 
-## He4rtBot
+## *He4rtBot*
 
 — O **[He4rtBot](https://github.com/he4rt/he4rt-bot-next)** surgiu após identificarmos a necessidade de **melhorar a performance dos nossos serviços** dentro do nosso servidor do Discord. Sendo um projeto **Open Source**, feito do zero pela nossa própria comunidade, o He4rtBot além de conter diversos [comandos](./subpage/discord-community.md) para aprimoramento e coleta de métricas, ele também possui um **Sistema de Temporadas**, onde nossos membros podem subir de nível e coletar emblemas de conquista por participar de eventos, como se fosse um joguinho.
 
-## Aulões
+## *Aulões*
 
 — O projeto dos **Aulões** promove que os membros de dentro e fora da comunidade possam **compartilhar conteúdo através de palestras** em uma data previamente agendada. Fazemos a abertura e fechamento da agenda mensalmente para que os membros se organizem com antecedência para comparecer.
 
@@ -133,21 +133,21 @@ Você pode consultar nosso calendário de eventos no nosso servidor, na lateral 
     <img src="./.github/discord.png"/>
 </p>
 
-## Aulas de Inglês
+## *Aulas de Inglês*
 
 — Na nossa comunidade temos aulas de inglês com o professor **João Corrêa** também conhecido por **Teacher João** para quem não entende nada de inglês, para aqueles com insegurança no idioma e também para aqueles que não entendem muitos termos técnicos da área de tecnologia e software. O nosso professor de inglês além de muito experiente, é familiarizado e tem repertório com a tecnologia que usamos todos os dias e muitas vezes não compreendemos por completo.
 
 As aulas de inglês no momento entraram em recesso e estão previstas para retornarem em **fevereiro de 2023.**
 
-## Grupos de conversação (em Inglês)
+## *Grupos de conversação (em Inglês)*
 
 — Os grupos de conversação surgiram com a necessidade dos membros de terem um local para praticar seus conhecimentos em Inglês com outras pessoas de forma descontraída. Dentro da nossa comunidade no Discord temos o canal de voz **#🇬🇧 Only English**, que é o local no qual os membros de diversos níveis de Inglês, do iniciante ao fluente, se reúnem para conversar e trocar conhecimentos.
 
-## Reuniões semanais
+## *Reuniões semanais*
 
 — As reuniões semanais acontecem toda **segunda-feira**, **às 22h**, com o intuito de **reunir a comunidade para conversar**, **discutir** e **fofocar** sobre os assuntos da semana. Utilizamos esse espaço para repassar avisos importantes e o calendário semanal da comunidade, além de incentivarmos a presença mais ativa dos nossos membros.
 
-## Reunião das minas
+## *Reunião das minas*
 
 — A reunião das minas acontecem toda **terça-feira**, **às 20h**, onde as pessoas que se identificam com o projeto **He4rt Delas** e o restante da comunidade são convidados para **apoiar a presença de mulheres cis**, **trans** e **pessoas não-binárias** à fazerem parte da He4rt Developers. Na reunião *quem manda são as minas*, desde a organização, até as tomadas de decisões do projeto.
 <br>
