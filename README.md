@@ -1,4 +1,4 @@
-# <p align="center"><b> Documentação He4rt Developers</b>
+# <p align="center"><b> 📝 Documentação He4rt Developers</b> <img src="./.github/he4rt.png" width="28px">
 
 ## O que é essa documentação?
 
@@ -14,14 +14,13 @@
 
 ## He4rt Developers
 
-— A comunidade **He4rt Developers** é um grupo fomentado por **pessoas desenvolvedoras de software**, **estudantes de tecnologia**, **entusiastas por comunidades** e/ou **software livre** e muitos outros reunidos no servidor no Discord e ativos em outras redes sociais. Nossa filosofia impõe educação de qualidade e tecnologia para todas as pessoas de forma acessível e gratuita.
+— A comunidade **[He4rt Developers](https://heartdevs.com/)** é um grupo fomentado por **pessoas desenvolvedoras de software**, **estudantes de tecnologia**, **entusiastas por comunidades** e/ou **software livre** e muitos outros reunidos no servidor no Discord e ativos em outras redes sociais. Nossa filosofia impõe educação de qualidade e tecnologia para todas as pessoas de forma acessível e gratuita.
 
 Acreditamos também na importância da participação de todos os nossos membros nas tomadas de decisão durante os nossos encontros semanais. Também influenciamos as pessoas a contribuírem para a comunidade pois tudo aquilo que ela promove irá retornar para ela de alguma forma, sem fins lucrativos.
 
 Tudo que construímos juntos é em prol ***da comunidade para a comunidade.*** Inclusive essa documentação que você está lendo agora, feita por membros que se dispuseram para contribuir.
 
-Para entender melhor sobre a **estruturação do nosso servidor no Discord**, [acesse aqui](./subpage/discord-community.md).
-<br>
+Para entender melhor sobre a **estruturação do nosso servidor no Discord, [acesse aqui](./subpage/discord-community.md)**.
 <br>
 
 <p align="center">
@@ -111,7 +110,7 @@ O projeto é composto por um **comitê** para as tomadas de decisões e administ
 
 — O projeto **4Noobs** nasceu com o objetivo de ser um espaço onde as pessoas pudessem encontrar conteúdo de **fácil entendimento** em um primeiro encontro com determinado tema e que permitisse ela de se capacitar profissionalmente com esse conteúdo. A intenção desse **Open Source** é que as pessoas de diferentes níveis de entendimento pudessem contribuir, pois acreditamos que **você não precisa ser um expert para poder ensinar sobre algo.**
 
-Você pode saber mais sobre o 4Noobs aqui: <https://github.com/he4rt/4noobs>
+Para saber mais sobre o 4Noobs, **[acesse aqui](https://github.com/he4rt/4noobs)**.
 
 ## *He4rtLive*
 
@@ -127,7 +126,7 @@ Para acessar o nosso time de Streamers parceiros, [**clique aqui**](https://www.
 
 — O projeto dos **Aulões** promove que os membros de dentro e fora da comunidade possam **compartilhar conteúdo através de palestras** em uma data previamente agendada. Fazemos a abertura e fechamento da agenda mensalmente para que os membros se organizem com antecedência para comparecer.
 
-Você pode consultar nosso calendário de eventos no nosso servidor, na lateral esquerda superior.
+Você pode consultar nosso calendário de eventos no nosso servidor pela lateral esquerda superior.
 
 <p align="center">
     <img src="./.github/discord.png"/>
@@ -155,23 +154,23 @@ As aulas de inglês no momento entraram em recesso e estão previstas para retor
 
 ## **Cargos**
 
-— Dentro do nosso servidor no Discord, nossa comunidade é estruturada através de **cargos**, para que assim possamos separar e identificar funções, títulos e honorárias.
+— Dentro do nosso servidor no Discord, nossa comunidade é organizada através de **cargos**, para que assim possamos separar e identificar funções, títulos e honorárias.
 
 **He4rtless** ⇒ São os principais líderes da comunidade, membros que fizeram parte da fundação da comunidade e que persistem presentes até hoje na liderança e nas tomadas de decisão. São membros que estão no topo do organograma da comunidade e possuem um maior repertório de como funciona a nossa comunidade e são os melhores na hora de decidir os próximos passos da He4rt.
 
 **He4rt** ⇒ São os membros mais ativos que se **sobressaem entre os demais** pela sua relevância, participação e contribuição. Esses membros são especiais por serem aqueles que vestem a camisa da comunidade e compactuam muito com o que ela representa e proporciona. É um cargo de **honraria**.
 
-💼**Equipe de Administração** ⇒ Membros que possuem responsabilidades administrativas dentro e fora da comunidade.
+💼 **Equipe de Administração** ⇒ Membros que possuem responsabilidades administrativas dentro e fora da comunidade.
 
-👮‍♂️**Equipe de Moderação** ⇒ São os membros responsáveis de moderar nossa comunidade dentro do Discord. Eles cuidam para que a harmonia e educação reine nos nossos chats de texto/voz
+👮‍♂️ **Equipe de Moderação** ⇒ São os membros responsáveis de moderar nossa comunidade dentro do Discord. Eles cuidam para que a harmonia e educação reine nos nossos chats de texto/voz
 
-💳**Apoiadores** ⇒ Esse cargo é atribuido aos apoiadores financeiros da comunidade atráves da plataforma [apoia.se/heartdevs](http://apoia.se/heartdevs). Para ser um apoiador, basta fazer uma doação de do mínimo R$5 e utilizar o comando **/apoiase (seu email)** em qualquer chat do nosso Discord.
+💳 **Apoiadores** ⇒ Esse cargo é atribuido aos apoiadores financeiros da comunidade atráves da plataforma [apoia.se/heartdevs](http://apoia.se/heartdevs). Para ser um apoiador, basta fazer uma doação de do mínimo R$5 e utilizar o comando **/apoiase (seu email)** em qualquer chat do nosso Discord.
 
-⚡**Nitro Booster** ⇒ Cargo designado à aqueles que “boostam” o servidor da comunidade através do Discord Nitro, concedendo ao nosso servidor privilégios como: **mais slots de emotes e stickers, melhor qualidade de áudio e transmissões de videos**. Esses membros além de receberem o cargo **Nitro Booster**, eles conseguem customizar um perfil exclusivo dentro do servidor e recebem uma insígnia brilhante única.
+⚡ **Nitro Booster** ⇒ Cargo designado à aqueles que “boostam” o servidor da comunidade através do Discord Nitro, concedendo ao nosso servidor privilégios como: **mais slots de emotes e stickers, melhor qualidade de áudio e transmissões de videos**. Esses membros além de receberem o cargo **Nitro Booster**, eles conseguem customizar um perfil exclusivo dentro do servidor e recebem uma insígnia brilhante única.
 
-🎓**Mentores** ⇒ São aqueles que se voluntariaram a serem mentores dentro da comunidade, ajudando aqueles que ainda estão um pouco perdidos nos estudos.
+🎓 **Mentores** ⇒ São aqueles que se voluntariaram a serem mentores dentro da comunidade, ajudando aqueles que ainda estão um pouco perdidos nos estudos.
 
-🤝**Parceiros** ⇒ Membros e empresas que ajudam efetivamente a comunidade em diversos setores.
+🤝 **Parceiros** ⇒ Membros e empresas que ajudam efetivamente a comunidade em diversos setores.
 <br>
 <br>
 
