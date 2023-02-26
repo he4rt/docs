@@ -1,4 +1,30 @@
+﻿
 # <p align="center"><b> 📝 Documentação He4rt Developers</b> <img src="./.github/he4rt.png" width="28px">
+
+## Tabela de Conteúdos
+
+* [O que é essa documentação?](#o-que-e-essa-documentacao)
+* [Como eu posso contribuir?](#como-eu-posso-contribuir)
+* [He4rt Developers](#he4rt-developers)
+* [Nosso time](#nosso-time)
+  *  [Líderes (He4rtless)](#lideres)
+  * [Equipe de Administração](#equipe-de-administracao)
+ * [Projetos](#projetos)
+   * [He4rt Meetup](#he4rt-meetup)
+   * [He4rt Conf](#he4rt-conf)
+   * [He4rt Delas](#he4rt-delas)
+   * [4Noobs](#4noobs)
+   * [He4rtLive](#he4rt-live)
+   * [He4rtBot](#he4rt-bot)
+   * [Aulões](#auloes)
+   * [Aulas de Inglês](#aulas-de-ingles)
+   * [Grupos de conversação (em Inglês)](#grupos-de-conversacao)
+   * [Reuniões semanais](#reunioes-semanais)
+   * [Reunião das minas](#reuniao-das-minas)
+  * [Cargos](#cargos)
+  * [Punições e moderação](#punicoes-e-moderacao)
+
+<div id="o-que-e-essa-documentacao">
 
 ## O que é essa documentação?
 
@@ -6,11 +32,15 @@
 <br>
 <br>
 
+<div id="como-eu-posso-contribuir">
+
 ## Como eu posso contribuir?
 
 — Para contribuir para essa documentação, seja com correções ortográficas ou adicionando um novo conteúdo, basta acessar o repositório oficial, fazer um fork dele, criar uma branch com o seu nome/apelido, fazer a sua contribuição, enviar um pull request e então um dos revisores irá avaliar suas alterações.
 <br>
 <br>
+
+<div id="he4rt-developers">
 
 ## He4rt Developers
 
@@ -33,11 +63,15 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord, [ace
 <br>
 <br>
 
+<div id="nosso-time">
+
 ## **Nosso time**
 
-> “*Com grandes poderes vêm grandes responsabilidades.” - Tio Ben, Stan Lee.*
+> “*Com grandes poderes vêm grandes responsabilidades.” - Tio Ben, Stan Lee.*
 
 — Para que pudéssemos chegar aonde estamos, foi necessário uma boa equipe administrativa para que mantivesse tudo nos conformes, inovando, moderando e mantendo nossos ideais vivos. Então, conheça nosso incrível time:
+
+<div id="lideres">
 
 ### *Líderes  (He4rtless)*
 
@@ -61,6 +95,8 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord, [ace
 
     Discord: @'Pride#5559
 
+<div id="equipe-de-administracao">
+
 ### *Equipe de Administração*
 
 - **Gabriel Mazieri** - *Community Manager*
@@ -75,7 +111,7 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord, [ace
 
     Discord: @Novout#0001
 
-- **Luis Eduardo** - *Lider de Moderação*
+- **Luis Eduardo** - *Líder de Moderação*
 
     Discord: @Nadachi#2043, [Twitter](https://twitter.com/Luis_Nadachi), [LinkedIn](https://www.linkedin.com/in/luis-eduardo-teixeira/)
 
@@ -90,15 +126,23 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord, [ace
 <br>
 <br>
 
+<div id="projetos">
+
 ## **Projetos**
+
+<div id="he4rt-meetup">
 
 ## *He4rt Meetup*
 
 — A **He4rt Meetup** são eventos **híbridos** que ocorrem na intenção dos membros se encontrarem *in real life*. Durante esses eventos geralmente ocorrem **palestras, entrevista com convidados especiais, coffee break** e muito **networking.** Apesar dos encontros serem focados para o presencial, nossos Meetups também possuem **transmissões online** pela **[Twitch](https://www.twitch.tv/danielhe4rt).** Dessa maneira, todos os nossos membros podem aproveitar nossos eventos, mesmo de longe.
 
+<div id="he4rt-conf">
+
 ## *He4rt Conf*
 
 — A **[He4rt Conf](https://conf.heartdevs.com/)** é uma iniciativa que visa **democratizar** e **facilitar** o **acesso a conteúdos de alta qualidade** produzidos pela comunidade, sendo **100% gratuito**, contendo palestras de convidados especiais, além de brindes patrocinado pelas empresas parceiras para todos os participantes. A primeira edição (e até então a única) ocorreu nos dias 01, 02 e 03 de Outubro de 2021.
+
+<div id="he4rt-delas">
 
 ## *He4rt Delas*
 
@@ -106,11 +150,15 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord, [ace
 
 O projeto é composto por um **comitê** para as tomadas de decisões e administração dos projetos internos da He4rt Delas. As participantes do comitê são: *Alice, Amanda, Carolina, Colares, Gabi, Lai, Lorena e Yaya.*
 
+<div id="4noobs">
+
 ## *4Noobs*
 
 — O projeto **4Noobs** nasceu com o objetivo de ser um espaço onde as pessoas pudessem encontrar conteúdo de **fácil entendimento** em um primeiro encontro com determinado tema, promovendo uma melhor capacitação profissional. A intenção desse **Open Source** é que as pessoas de diferentes níveis de entendimento pudessem contribuir, pois acreditamos que **você não precisa ser um expert para poder ensinar sobre algo.**
 
 Para saber mais sobre o 4Noobs, **[acesse aqui](https://github.com/he4rt/4noobs)**.
+
+<div id="he4rt-live">
 
 ## *He4rtLive*
 
@@ -118,9 +166,13 @@ Para saber mais sobre o 4Noobs, **[acesse aqui](https://github.com/he4rt/4noobs)
 
 Para acessar o nosso time de Streamers parceiros, [**clique aqui**](https://www.twitch.tv/team/he4rt).
 
+<div id="he4rt-bot">
+
 ## *He4rtBot*
 
 — O **[He4rtBot](https://github.com/he4rt/he4rt-bot-next)** surgiu após identificarmos a necessidade de **melhorar a performance dos nossos serviços** dentro do nosso servidor do Discord. Sendo um projeto **Open Source** feito do zero pela nossa própria comunidade, o He4rtBot além de conter diversos [comandos](./subpage/discord-community.md) para aprimoramento e coleta de métricas, também possui um **Sistema de Temporadas**, onde nossos membros podem subir de nível e coletar emblemas de conquista por participar de eventos, como se fosse um joguinho.
+
+<div id="auloes">
 
 ## *Aulões*
 
@@ -132,25 +184,35 @@ Você pode consultar nosso calendário de eventos no nosso servidor pela lateral
     <img src="./.github/discord.png"/>
 </p>
 
+<div id="aulas-de-ingles">
+
 ## *Aulas de Inglês*
 
 — Na nossa comunidade temos aulas de inglês com o professor **João Corrêa** também conhecido por **Teacher João** para quem não entende nada de inglês, para aqueles com insegurança no idioma e também para aqueles que não entendem muitos termos técnicos da área de tecnologia e software. O nosso professor de inglês além de muito experiente, é familiarizado e tem repertório com a tecnologia que usamos todos os dias e muitas vezes não compreendemos por completo.
 
 As aulas de inglês no momento entraram em recesso e estão previstas para retornarem em **fevereiro de 2023.**
 
+<div id="grupos-de-conversacao">
+
 ## *Grupos de conversação (em Inglês)*
 
 — Os grupos de conversação surgiram com a necessidade dos membros de terem um local para praticar seus conhecimentos em Inglês com outras pessoas de forma descontraída. Dentro da nossa comunidade no Discord temos o canal de voz **#🇬🇧 Only English**, que é o local no qual os membros de diversos níveis de Inglês, do iniciante ao fluente, se reúnem para conversar e trocar conhecimentos.
 
+<div id="reunioes-semanais">
+
 ## *Reuniões semanais*
 
 — As reuniões semanais acontecem toda **segunda-feira**, **às 22h**, com o intuito de **reunir a comunidade para conversar**, **discutir** e **fofocar** sobre os assuntos da semana. Utilizamos esse espaço para repassar avisos importantes e o calendário semanal da comunidade, além de incentivarmos a presença mais ativa dos nossos membros.
+
+<div id="reuniao-das-minas">
 
 ## *Reunião das minas*
 
 — A reunião das minas acontecem toda **terça-feira**, **às 20h**, onde as pessoas que se identificam com o projeto **He4rt Delas** e o restante da comunidade são convidados para **apoiar a presença de mulheres cis**, **trans** e **pessoas não-binárias** à fazerem parte da He4rt Developers. Na reunião *quem manda são as minas*, desde a organização, até as tomadas de decisões do projeto.
 <br>
 <br>
+
+<div id="cargos">
 
 ## **Cargos**
 
@@ -164,7 +226,7 @@ As aulas de inglês no momento entraram em recesso e estão previstas para retor
 
 👮‍♂️ **Equipe de Moderação** ⇒ São os membros responsáveis de moderar nossa comunidade dentro do Discord. Eles cuidam para que a harmonia e educação reine nos nossos chats de texto/voz
 
-💳 **Apoiadores** ⇒ Esse cargo é atribuido aos apoiadores financeiros da comunidade atráves da plataforma [apoia.se/heartdevs](http://apoia.se/heartdevs). Para ser um apoiador, basta fazer uma doação de do mínimo R$5 e utilizar o comando **/apoiase (seu email)** em qualquer chat do nosso Discord.
+💳 **Apoiadores** ⇒ Esse cargo é atribuído aos apoiadores financeiros da comunidade através da plataforma [apoia.se/heartdevs](http://apoia.se/heartdevs). Para ser um apoiador, basta fazer uma doação de do mínimo R$5 e utilizar o comando **/apoiase (seu email)** em qualquer chat do nosso Discord.
 
 ⚡ **Nitro Booster** ⇒ Cargo designado à aqueles que “boostam” o servidor da comunidade através do Discord Nitro, concedendo ao nosso servidor privilégios como: **mais slots de emotes e stickers, melhor qualidade de áudio e transmissões de videos**. Esses membros além de receberem o cargo **Nitro Booster**, eles conseguem customizar um perfil exclusivo dentro do servidor e recebem uma insígnia brilhante única.
 
@@ -173,6 +235,8 @@ As aulas de inglês no momento entraram em recesso e estão previstas para retor
 🤝 **Parceiros** ⇒ Membros e empresas que ajudam efetivamente a comunidade em diversos setores.
 <br>
 <br>
+
+<div id="punicoes-e-moderacao">
 
 ## **Punições e moderação**
 
