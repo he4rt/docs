@@ -39,15 +39,15 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord, [ace
 
 — Para que pudéssemos chegar aonde estamos, foi necessário uma boa equipe administrativa para que mantivesse tudo nos conformes, inovando, moderando e mantendo nossos ideais vivos. Então, conheça nosso incrível time:
 
-### *Líderes  (He4rtless)*
+### *Equipe de Administração*
 
 - **Daniel Reis -** *Fundador*
 
-    Discord: @danielhe4rt#0001, [Twitter](https://twitter.com/danielhe4rt), [LinkedIn](https://www.linkedin.com/in/danielheart/)
+    Discord: @danielhe4rt, [Twitter](https://twitter.com/danielhe4rt), [LinkedIn](https://www.linkedin.com/in/danielheart/)
 
 - **Gustavo Lima** - *Co-fundador*
 
-    Discord: @Gustavo 🔥#6479, [Twitter](https://twitter.com/kjkGustavo), [LinkedIn](https://www.linkedin.com/in/kjkGustavo/)
+    Discord: @kjkgustavo, [Twitter](https://twitter.com/kjkGustavo), [LinkedIn](https://www.linkedin.com/in/kjkGustavo/)
 
 - **Felipe Gabriel** - *Diretor de Operações*
 
@@ -55,21 +55,15 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord, [ace
 
 - **Júlia Vaz** - *Social Media*
 
-    Discord: @jujuvaz#8755
+    Discord: @jujuvaz
 
 - **Pride** -  *Joker - Dono do Discord*
 
-    Discord: @'Pride#5559
-
-### *Equipe de Administração*
-
-- **Gabriel Mazieri** - *Community Manager*
-
-    Discord: @GrandeHe4rt#3106, [Twitter](https://twitter.com/grandehe4rt), [LinkedIn](https://www.linkedin.com/in/grandehe4rt/)
+    Discord: @1pride
 
 - **Gabriel Vieira** - *UI/UX Designer*
 
-    Discord: @'NexTurHe4rt#7503, [Twitter](https://twitter.com/NexturHe4rt), [LinkedIn](https://www.linkedin.com/in/gabrielnx/)
+    Discord: @nexturhe4rt, [Twitter](https://twitter.com/NexturHe4rt), [LinkedIn](https://www.linkedin.com/in/gabrielnx/)
 
 - **Giovane Silva** - *Contribuidor principal*
 
@@ -77,15 +71,15 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord, [ace
 
 - **Luis Eduardo** - *Lider de Moderação*
 
-    Discord: @Nadachi#2043, [Twitter](https://twitter.com/Luis_Nadachi), [LinkedIn](https://www.linkedin.com/in/luis-eduardo-teixeira/)
+    Discord: @nadachi, [Twitter](https://twitter.com/Luis_Nadachi), [LinkedIn](https://www.linkedin.com/in/luis-eduardo-teixeira/)
 
 - **Mateus Pinheiro** - *Contribuidor Principal*
 
-    Discord: @m7ez1n🤬#6235, [Twitter](https://twitter.com/m7ez1n), [LinkedIn](https://www.linkedin.com/in/m7aei/)
+    Discord: @m7ez1n, [Twitter](https://twitter.com/m7ez1n), [LinkedIn](https://www.linkedin.com/in/m7aei/)
 
 - **Yasmin Felício** - *Community Manager*
 
-    Discord: @yaya#5286, [Twitter](https://twitter.com/yayaflc), [LinkedIn](https://www.linkedin.com/in/yasminccfe/)
+    Discord: @yayasz, [Twitter](https://twitter.com/yayaflc), [LinkedIn](https://www.linkedin.com/in/yasminccfe/)
 
 <br>
 <br>
@@ -104,7 +98,7 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord, [ace
 
 — A **He4rt Delas** é um projeto de **iniciativa feminina** com a intenção de incentivar, integrar e apoiar **mulheres cis, trans** e **pessoas não-binárias** à ingressarem na área de tecnologia e na nossa comunidade, promovendo um espaço seguro e acolhedor para as mesmas.
 
-O projeto é composto por um **comitê** para as tomadas de decisões e administração dos projetos internos da He4rt Delas. As participantes do comitê são: *Alice, Amanda, Carolina, Colares, Gabi, Lai, Lorena e Yaya.*
+O projeto é composto por um **comitê** para as tomadas de decisões e administração dos projetos internos da He4rt Delas. As participantes do comitê são: *Cherry, Colares, Larissa, Lorena e Yaya.*
 
 ## *4Noobs*
 
@@ -122,9 +116,9 @@ Para acessar o nosso time de Streamers parceiros, [**clique aqui**](https://www.
 
 — O **[He4rtBot](https://github.com/he4rt/he4rt-bot-next)** surgiu após identificarmos a necessidade de **melhorar a performance dos nossos serviços** dentro do nosso servidor do Discord. Sendo um projeto **Open Source**, feito do zero pela nossa própria comunidade, o He4rtBot além de conter diversos [comandos](./subpage/discord-community.md) para aprimoramento e coleta de métricas, ele também possui um **Sistema de Temporadas**, onde nossos membros podem subir de nível e coletar emblemas de conquista por participar de eventos, como se fosse um joguinho.
 
-## *Aulões*
+## *He4rtSpaces*
 
-— O projeto dos **Aulões** promove que os membros de dentro e fora da comunidade possam **compartilhar conteúdo através de palestras** em uma data previamente agendada. Fazemos a abertura e fechamento da agenda mensalmente para que os membros se organizem com antecedência para comparecer.
+— O projeto dos **He4rtSpaces** promove que os membros de dentro e fora da comunidade possam **compartilhar conteúdo através de palestras** em uma data previamente agendada. Fazemos a abertura e fechamento da agenda mensalmente para que os membros se organizem com antecedência para comparecer.
 
 Você pode consultar nosso calendário de eventos no nosso servidor pela lateral esquerda superior.
 
@@ -148,7 +142,7 @@ As aulas de inglês no momento entraram em recesso e estão previstas para retor
 
 ## *Reunião das minas*
 
-— A reunião das minas acontecem toda **terça-feira**, **às 20h**, onde as pessoas que se identificam com o projeto **He4rt Delas** e o restante da comunidade são convidados para **apoiar a presença de mulheres cis**, **trans** e **pessoas não-binárias** à fazerem parte da He4rt Developers. Na reunião *quem manda são as minas*, desde a organização, até as tomadas de decisões do projeto.
+— A reunião das minas acontecem quinzenalmente, **às 20h**, onde as pessoas que se identificam com o projeto **He4rt Delas** e o restante da comunidade são convidados para **apoiar a presença de mulheres cis**, **trans** e **pessoas não-binárias** à fazerem parte da He4rt Developers. Na reunião *quem manda são as minas*, desde a organização, até as tomadas de decisões do projeto.
 <br>
 <br>
 
