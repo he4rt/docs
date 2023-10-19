@@ -8,13 +8,13 @@
 
 ## Como eu posso contribuir?
 
-— Para contribuir para essa documentação, seja com correções ortográficas ou adicionando um novo conteúdo, basta acessar o repositório oficial, fazer um fork dele, criar uma branch com o seu nome/apelido, fazer a sua contribuição, enviar um pull request e então um dos revisores irão avaliar suas alterações.
+— Para contribuir para essa documentação, seja com correções ortográficas ou adicionando um novo conteúdo, basta acessar o repositório oficial, fazer um fork dele, criar uma branch com o seu nome/apelido, fazer a sua contribuição, enviar um pull request e então um dos revisores irá avaliar suas alterações.
 <br>
 <br>
 
 ## He4rt Developers
 
-— A comunidade **[He4rt Developers](https://heartdevs.com/)** é um grupo fomentado por **pessoas desenvolvedoras de software**, **estudantes de tecnologia**, **entusiastas por comunidades** e/ou **software livre** e muitos outros reunidos no servidor no Discord e ativos em outras redes sociais. Nossa filosofia impõe educação de qualidade e tecnologia para todas as pessoas de forma acessível e gratuita.
+— A comunidade **[He4rt Developers](https://heartdevs.com/)** é um grupo fomentado por **pessoas desenvolvedoras de software**, **estudantes de tecnologia**, **entusiastas por comunidades** e/ou **software livre** e muitos outros reunidos no servidor no Discord e ativos em outras redes sociais. Nossa filosofia impõe educação de qualidade em tecnologia para todas as pessoas de forma acessível e gratuita.
 
 Acreditamos também na importância da participação de todos os nossos membros nas tomadas de decisão durante os nossos encontros semanais. Também influenciamos as pessoas a contribuírem para a comunidade pois tudo aquilo que ela promove irá retornar para ela de alguma forma, sem fins lucrativos.
 
@@ -96,13 +96,13 @@ Para entender melhor sobre a **estruturação do nosso servidor no Discord, [ace
 
 ## *He4rt Delas*
 
-— A **He4rt Delas** é um projeto de **iniciativa feminina** com a intenção de incentivar, integrar e apoiar **mulheres cis, trans** e **pessoas não-binárias** à ingressarem na área de tecnologia e na nossa comunidade, promovendo um espaço seguro e acolhedor para as mesmas.
+— A **He4rt Delas** é um projeto de **iniciativa feminina** com a intenção de incentivar, integrar e apoiar **mulheres cis, trans** e **pessoas não-binárias** a ingressarem na área de tecnologia e na nossa comunidade, promovendo um espaço seguro e acolhedor para as mesmas.
 
 O projeto é composto por um **comitê** para as tomadas de decisões e administração dos projetos internos da He4rt Delas. As participantes do comitê são: *Cherry, Colares, Larissa, Lorena e Yaya.*
 
 ## *4Noobs*
 
-— O projeto **4Noobs** nasceu com o objetivo de ser um espaço onde as pessoas pudessem encontrar conteúdo de **fácil entendimento** em um primeiro encontro com determinado tema e que permitisse ela de se capacitar profissionalmente com esse conteúdo. A intenção desse **Open Source** é que as pessoas de diferentes níveis de entendimento pudessem contribuir, pois acreditamos que **você não precisa ser um expert para poder ensinar sobre algo.**
+— O projeto **4Noobs** nasceu com o objetivo de ser um espaço onde as pessoas pudessem encontrar conteúdo de **fácil entendimento** em um primeiro encontro com determinado tema, promovendo uma melhor capacitação profissional. A intenção desse **Open Source** é que as pessoas de diferentes níveis de entendimento pudessem contribuir, pois acreditamos que **você não precisa ser um expert para poder ensinar sobre algo.**
 
 Para saber mais sobre o 4Noobs, **[acesse aqui](https://github.com/he4rt/4noobs)**.
 
@@ -114,11 +114,11 @@ Para acessar o nosso time de Streamers parceiros, [**clique aqui**](https://www.
 
 ## *He4rtBot*
 
-— O **[He4rtBot](https://github.com/he4rt/he4rt-bot-next)** surgiu após identificarmos a necessidade de **melhorar a performance dos nossos serviços** dentro do nosso servidor do Discord. Sendo um projeto **Open Source**, feito do zero pela nossa própria comunidade, o He4rtBot além de conter diversos [comandos](./subpage/discord-community.md) para aprimoramento e coleta de métricas, ele também possui um **Sistema de Temporadas**, onde nossos membros podem subir de nível e coletar emblemas de conquista por participar de eventos, como se fosse um joguinho.
+— O **[He4rtBot](https://github.com/he4rt/he4rt-bot-next)** surgiu após identificarmos a necessidade de **melhorar a performance dos nossos serviços** dentro do nosso servidor do Discord. Sendo um projeto **Open Source** feito do zero pela nossa própria comunidade, o He4rtBot além de conter diversos [comandos](./subpage/discord-community.md) para aprimoramento e coleta de métricas, também possui um **Sistema de Temporadas**, onde nossos membros podem subir de nível e coletar emblemas de conquista por participar de eventos, como se fosse um joguinho.
 
 ## *He4rtSpaces*
 
-— O projeto dos **He4rtSpaces** promove que os membros de dentro e fora da comunidade possam **compartilhar conteúdo através de palestras** em uma data previamente agendada. Fazemos a abertura e fechamento da agenda mensalmente para que os membros se organizem com antecedência para comparecer.
+— O projeto **He4rtSpaces** promove que os membros de dentro e fora da comunidade possam **compartilhar conteúdo através de palestras** em uma data previamente agendada. Fazemos a abertura e fechamento da agenda mensalmente para que os membros se organizem com antecedência para comparecer.
 
 Você pode consultar nosso calendário de eventos no nosso servidor pela lateral esquerda superior.
 
@@ -130,8 +130,6 @@ Você pode consultar nosso calendário de eventos no nosso servidor pela lateral
 
 — Na nossa comunidade temos aulas de inglês com o professor **João Corrêa** também conhecido por **Teacher João** para quem não entende nada de inglês, para aqueles com insegurança no idioma e também para aqueles que não entendem muitos termos técnicos da área de tecnologia e software. O nosso professor de inglês além de muito experiente, é familiarizado e tem repertório com a tecnologia que usamos todos os dias e muitas vezes não compreendemos por completo.
 
-As aulas de inglês no momento entraram em recesso e estão previstas para retornarem em **fevereiro de 2023.**
-
 ## *Grupos de conversação (em Inglês)*
 
 — Os grupos de conversação surgiram com a necessidade dos membros de terem um local para praticar seus conhecimentos em Inglês com outras pessoas de forma descontraída. Dentro da nossa comunidade no Discord temos o canal de voz **#🇬🇧 Only English**, que é o local no qual os membros de diversos níveis de Inglês, do iniciante ao fluente, se reúnem para conversar e trocar conhecimentos.
@@ -140,9 +138,9 @@ As aulas de inglês no momento entraram em recesso e estão previstas para retor
 
 — As reuniões semanais acontecem toda **segunda-feira**, **às 22h**, com o intuito de **reunir a comunidade para conversar**, **discutir** e **fofocar** sobre os assuntos da semana. Utilizamos esse espaço para repassar avisos importantes e o calendário semanal da comunidade, além de incentivarmos a presença mais ativa dos nossos membros.
 
-## *Reunião das minas*
+## *Reunião Delas*
 
-— A reunião das minas acontecem quinzenalmente, **às 20h**, onde as pessoas que se identificam com o projeto **He4rt Delas** e o restante da comunidade são convidados para **apoiar a presença de mulheres cis**, **trans** e **pessoas não-binárias** à fazerem parte da He4rt Developers. Na reunião *quem manda são as minas*, desde a organização, até as tomadas de decisões do projeto.
+— A Reunião Delas acontecem quinzenalmente (*acessar a aba de eventos no Discord para saber quando será a próxima!*), **às 20h**, onde as pessoas que se identificam com o projeto **He4rt Delas** e o restante da comunidade são convidados para **apoiar a presença de mulheres cis**, **trans** e **pessoas não-binárias** à fazerem parte da He4rt Developers. Na reunião *quem manda são as minas*, desde a organização, até as tomadas de decisões do projeto.
 <br>
 <br>
 
