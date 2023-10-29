@@ -9,6 +9,8 @@
 ## Como eu posso contribuir?
 
 — Para contribuir para essa documentação, seja com correções ortográficas ou adicionando um novo conteúdo, basta acessar o repositório oficial, fazer um fork dele, criar uma branch com o seu nome/apelido, fazer a sua contribuição, enviar um pull request e então um dos revisores irá avaliar suas alterações.
+
+> Para mais detalhes quanto ao que é esperado de uma contribuição, entre no arquivo: [CONTRIBUTING.md](/CONTRIBUTING.md)
 <br>
 <br>
 
